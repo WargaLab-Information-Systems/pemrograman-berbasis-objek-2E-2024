@@ -1,2 +1,0 @@
-tugaspraktikum.Manusia
-tugaspraktikum.Tugaspraktikum
