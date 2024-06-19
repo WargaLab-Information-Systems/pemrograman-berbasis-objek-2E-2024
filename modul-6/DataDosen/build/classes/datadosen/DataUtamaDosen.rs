@@ -1,2 +1,0 @@
-Dosen
-DataUtamaDosen
